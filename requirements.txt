@@ -3,4 +3,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-
+plotly
+streamlit_lottie
+numpy
