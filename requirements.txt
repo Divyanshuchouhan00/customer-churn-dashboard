@@ -1,8 +1,10 @@
 streamlit
 pandas
+numpy
 scikit-learn
 matplotlib
 seaborn
 plotly
 streamlit_lottie
-numpy
+shap
+requests
